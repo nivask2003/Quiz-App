@@ -1,0 +1,140 @@
+[{
+  "_id": {
+    "$oid": "670fdfeac649e2a800a67d9d"
+  },
+  "Q.no": 1,
+  "Q": "Which of the following is a correct syntax for a Python function?",
+  "answers": [
+    "function myFunc():",
+    "def myFunc:",
+    "function myFunc():",
+    "def myFunc():"
+  ],
+  "correct": 3
+},
+{
+  "_id": {
+    "$oid": "670fdfeac649e2a800a67d9e"
+  },
+  "Q.no": 2,
+  "Q": "In Java, which of the following is a reserved keyword?",
+  "answers": [
+    "object",
+    "System",
+    "void",
+    "printf"
+  ],
+  "correct": 2
+},
+{
+  "_id": {
+    "$oid": "670fdfeac649e2a800a67d9f"
+  },
+  "Q.no": 3,
+  "Q": "Which data structure is used for implementing recursion?",
+  "answers": [
+    "Queue",
+    "Stack",
+    "Linked List",
+    "Array"
+  ],
+  "correct": 1
+},
+{
+  "_id": {
+    "$oid": "670fdfeac649e2a800a67da0"
+  },
+  "Q.no": 4,
+  "Q": "Which SQL statement is used to retrieve data from a database?",
+  "answers": [
+    "GET",
+    "EXTRACT",
+    "SELECT",
+    "RETRIEVE"
+  ],
+  "correct": 2
+},
+{
+  "_id": {
+    "$oid": "670fdfeac649e2a800a67da1"
+  },
+  "Q.no": 5,
+  "Q": "In HTML, what does the <a> tag represent?",
+  "answers": [
+    "Anchor tag",
+    "Article tag",
+    "Attribute tag",
+    "Array tag"
+  ],
+  "correct": 0
+},
+{
+  "_id": {
+    "$oid": "670fdfeac649e2a800a67da2"
+  },
+  "Q.no": 6,
+  "Q": "Which of the following is true about an object in Object-Oriented Programming?",
+  "answers": [
+    "Objects are a blueprint of a class",
+    "Objects hold state and behavior",
+    "Objects are just functions",
+    "Objects cannot have methods"
+  ],
+  "correct": 1
+},
+{
+  "_id": {
+    "$oid": "670feb56c649e2a800a67da4"
+  },
+  "Q.no": 7,
+  "Q": "In which language is the if-else statement NOT used?",
+  "answers": [
+    "JavaScript",
+    "Python",
+    "HTML",
+    "C++"
+  ],
+  "correct": 2
+},
+{
+  "_id": {
+    "$oid": "67112a03a991c2bd9a603c63"
+  },
+  "Q.no": 8,
+  "Q": "Which of the following is used to style HTML elements?",
+  "answers": [
+    "JavaScript",
+    "PHP",
+    "CSS",
+    "SQL"
+  ],
+  "correct": 2
+},
+{
+  "_id": {
+    "$oid": "67112d54a991c2bd9a603c65"
+  },
+  "Q.no": 9,
+  "Q": "What does the acronym JSON stand for?",
+  "answers": [
+    "JavaScript Object Notation",
+    "JavaScript Open Notation",
+    "Java Serialized Object Notation",
+    "JavaScript Operator Node"
+  ],
+  "correct": 0
+},
+{
+  "_id": {
+    "$oid": "67112d54a991c2bd9a603c66"
+  },
+  "Q.no": 10,
+  "Q": "Which method is used to convert a string to an integer in Java?",
+  "answers": [
+    "Integer.toString()",
+    "Integer.parseInt()",
+    "String.toInt()",
+    "int()"
+  ],
+  "correct": 1
+}]

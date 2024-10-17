@@ -1,0 +1,31 @@
+.app .container .app_title, .app .quiz h1{
+  display: flex;
+  justify-content: center;
+  /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+  color: blue;
+  text-shadow: 0 0 5px black;
+}
+.app .container .card{
+  height: 300px;
+  border-radius: 20px;
+  border: 1px solid black;
+  box-shadow: 0 0 5px, 0 0 7px;
+}
+.app .container .button, .app .quiz .card .questions form .button{
+  display: flex;
+  justify-content: center;
+}
+.app .quiz .card{
+  height: auto;
+  border-radius: 20px;
+  border: 1px solid black;
+  box-shadow: 0 0 5px, 0 0 7px;
+}
+.app .quiz .card .questions form .question-block h4{
+  color: blue;
+  
+}
+.app .quiz .card .questions form .question-block .answers .form-control{
+  outline: none;
+  border-color: transparent;
+}
